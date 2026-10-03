@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "VVV",
+    "CBC",
+    "TTT"
+  ],
+  "key": {
+    "V": "minecraft:structure_void",
+    "C": "minecraft:command_block",
+    "B": "minecraft:barrier",
+    "T": "minecraft:torch"
+  },
+  "result": {
+    "count": 1,
+    "id": "minecraft:light"
+  }
+}

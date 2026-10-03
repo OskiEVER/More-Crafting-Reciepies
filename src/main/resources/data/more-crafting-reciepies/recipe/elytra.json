@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "FMF",
+    "FCF",
+    "FMF"
+  ],
+  "key": {
+    "F": "minecraft:feather",
+    "M": "minecraft:phantom_membrane",
+    "C": "minecraft:netherite_chestplate"
+  },
+  "result": {
+    "count": 1,
+    "id": "minecraft:elytra"
+  }
+}

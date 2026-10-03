@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ABA",
+    "BMB",
+    "ABA"
+  ],
+  "key": {
+    "A": "minecraft:golden_apple",
+    "B": "minecraft:gold_block",
+    "M": "minecraft:totem_of_undying"
+  },
+  "result": {
+    "id": "minecraft:enchanted_golden_apple",
+    "count": 1
+  }
+}
